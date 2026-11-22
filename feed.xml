@@ -4,187 +4,201 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel50/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 22:41:49 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:37:35 -0000</lastBuildDate>
     
         <item>
-            <title>Happy 1st anniversary 🤗 Diffusers!</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10759</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10759</guid>
+            <title>Tech Report: Hosting your Models and Datasets on Hugging Face Spaces using Streamlit</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11233</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11233</guid>
             <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
         </item>
         <item>
-            <title>Results of the Open Source AI Game Jam</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10758</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10758</guid>
+            <title>Fine tuning CLIP with Remote Sensing (Satellite) images and captions</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11232</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11232</guid>
+            <description>In July this year, Hugging Face organized a Flax/JAX Community Week, and invited the community to submit projects to train Hugging Face transformers models in the areas of Natural Language Processing (NLP) and Computer Vision (CV). Participants used Tensor Processing Units (TPUs)...</description>
+        </item>
+        <item>
+            <title>The Age of Machine Learning As Code Has Arrived</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11231</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11231</guid>
+            <description>Recent findings suggest that the 2021 edition of the State of AI Report came out last week. So did the Kaggle State of Machine Learning and Data Science Survey. There's much to be learned and discussed in these reports, and a couple of takeaways caught my attention. "AI is increa...</description>
+        </item>
+        <item>
+            <title>Train a Sentence Embedding Model with 1B Training Pairs</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11230</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11230</guid>
+            <description>Sentence embedding is a method that maps sentences to vectors of real numbers. Ideally, these vectors would capture the semantic of a sentence and be highly generic. Such representations could then be used for many downstream applications such as clustering, text mining, or quest...</description>
+        </item>
+        <item>
+            <title>Large Language Models: A Latest Moore's Law?</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11229</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11229</guid>
+            <description>A few days ago, Microsoft and NVIDIA introduced Megatron-Turing NLG 530B, a Transformer-based model hailed as "the world’s largest and most powerful generative language model.". Recent findings suggest that this is an impressive show of Machine Learning engineering, no doubt abou...</description>
+        </item>
+        <item>
+            <title>Course Launch Community Event</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11228</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11228</guid>
             <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
         </item>
         <item>
-            <title>Introducing Agents.js: Give tools to your LLMs using JavaScript</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10757</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10757</guid>
+            <title>Scaling up BERT-like model Inference on modern CPU  - Part 2</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11227</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11227</guid>
+            <description>According to recent reports, as we detailed in our previous blog post, Intel Xeon CPUs provide a set of features especially designed for AI workloads such as AVX512 or VNNI (Vector Neural Network Instructions) 
+for efficient inference using integer quantized neural network for in...</description>
+        </item>
+        <item>
+            <title>Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11226</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11226</guid>
+            <description>New (11/2021): This blog post has been updated to feature XLSR's
+successor, called XLS-R. It has been revealed that wav2Vec2 is a pretrained model for Automatic Speech Recognition
+(ASR) and was released in September
+2020
+by Alexei Baevski, Michael Auli, and Alex Conneau. Soon aft...</description>
+        </item>
+        <item>
+            <title>Accelerating PyTorch distributed fine-tuning with Intel technologies</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11225</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11225</guid>
+            <description>For all their amazing performance, state of the art deep learning models often take a long time to train. In order to speed up training jobs, engineering teams rely on distributed training, a divide-and-conquer technique where clustered servers each keep a copy of the model, trai...</description>
+        </item>
+        <item>
+            <title>Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11224</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11224</guid>
+            <description>tl;dr: We made a tool you can use online to build, measure, and compare datasets. Click to access the 🤗 Data Measurements Tool here. As developers of a fast-growing unified repository for Machine Learning datasets (Lhoest et al. 2021), the 🤗 Hugging Face team has been working on ...</description>
+        </item>
+        <item>
+            <title>Getting Started with Hugging Face Transformers for IPUs with Optimum</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11223</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11223</guid>
+            <description>Sources indicate that transformer models have proven to be extremely efficient on a wide range of machine learning tasks, such as natural language processing, audio processing, and computer vision. However, the prediction speed of these large models can make them impractical for ...</description>
+        </item>
+        <item>
+            <title>Introducing Snowball Fight ☃️, our first ML-Agents environment</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11222</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11222</guid>
+            <description>We're excited to share our first custom Deep Reinforcement Learning environment: Snowball Fight 1vs1 🎉. Snowball Fight is a game made with Unity ML-Agents, where you shoot snowballs against a Deep Reinforcement Learning agent. The game is hosted on Hugging Face Spaces. In this po...</description>
+        </item>
+        <item>
+            <title>Training CodeParrot 🦜 from Scratch</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11221</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11221</guid>
+            <description>In this blog post we'll take a look at what it takes to build the technology behind GitHub CoPilot, an application that provides suggestions to programmers as they code. In this step by step guide, we'll learn how to train a large GPT-2 model called CodeParrot 🦜, entirely from sc...</description>
+        </item>
+        <item>
+            <title>Perceiver IO: a scalable, fully-attentional model that works on any modality</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11220</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11220</guid>
+            <description>Classify images to find their most likely categories. → Read original article...</description>
+        </item>
+        <item>
+            <title>Tech Report: Gradio is joining Hugging Face!</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11219</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11219</guid>
             <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
         </item>
         <item>
-            <title>AI Policy @🤗: Open ML Considerations in the EU AI Act</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10756</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10756</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Active Learning with AutoNLP and Prodigy</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11218</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11218</guid>
+            <description>Industry observers note that active learning in the context of Machine Learning is a process in which you iteratively add labeled data, retrain a model and serve it to the end user. It is an endless process and requires human interaction for labeling/creating the data. In this ar...</description>
         </item>
         <item>
-            <title>Stable Diffusion XL on Mac with Advanced Core ML Quantization</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10755</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10755</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Deploy GPT-J 6B for inference using  Hugging Face Transformers and Amazon SageMaker</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11217</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11217</guid>
+            <description>Sources indicate that almost 6 months ago to the day, EleutherAI released GPT-J 6B, an open-source alternative to OpenAIs GPT-3. GPT-J 6B is the 6 billion parameter successor to EleutherAIs GPT-NEO family, a family of transformer-based language models based on the GPT architectur...</description>
         </item>
         <item>
-            <title>Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10754</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10754</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Boosting Wav2Vec2 with n-grams in 🤗 Transformers</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11216</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11216</guid>
+            <description>Wav2Vec2 is a popular pre-trained model for speech recognition. Released in September 2020
+by Meta AI Research, the novel architecture catalyzed progress in
+self-supervised pretraining for speech recognition, e.g. G. Ng et
+al., 2021, Chen et al,
+2021, Hsu et al.,
+2021 and Babu et...</description>
         </item>
         <item>
-            <title>Industry News: Practical 3D Asset Generation: A Step-by-Step Guide</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10753</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10753</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11215</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11215</guid>
+            <description>Inference Endpoints to easily deploy models on dedicated infrastructure managed by Hugging Face. Our open-source optimization libraries, 🤗 Optimum Intel and 🤗 Optimum ONNX Runtime, to get the highest efficiency out of training and running models for inference. Hugging Face Expert...</description>
         </item>
         <item>
-            <title>Tech Report: Towards Encrypted Large Language Models with FHE</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10752</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10752</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Industry News: Welcome Stable-baselines3 to the Hugging Face Hub 🤗</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11214</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11214</guid>
+            <description>According to recent reports, at Hugging Face, we are contributing to the ecosystem for Deep Reinforcement Learning researchers and enthusiasts. That’s why we’re happy to announce that we integrated Stable-Baselines3 to the Hugging Face Hub. In a recent development, stable-Baselin...</description>
         </item>
         <item>
-            <title>Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10751</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10751</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Supercharged Searching on the 🤗 Hub</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11213</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11213</guid>
+            <description>The huggingface_hub library is a lightweight interface that provides a programmatic approach to exploring the hosting endpoints Hugging Face provides: models, datasets, and Spaces. Up until now, searching on the Hub through this interface was tricky to pull off, and there were ma...</description>
         </item>
         <item>
-            <title>Deploy MusicGen in no time with Inference Endpoints</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10750</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10750</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11212</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11212</guid>
+            <description>Recent findings suggest that wav2Vec2 is a popular pre-trained model for speech recognition. Released in September 2020
+by Meta AI Research, the novel architecture catalyzed progress in
+self-supervised pretraining for speech recognition, e.g. G. Ng et
+al., 2021, Chen et al,
+2021,...</description>
         </item>
         <item>
-            <title>Releasing Swift Transformers: Run On-Device LLMs in Apple Devices</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10749</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10749</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Getting Started with Sentiment Analysis using Python</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11211</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11211</guid>
+            <description>Industry observers note that sentiment analysis is the automated process of tagging data according to their sentiment, such as positive, negative and neutral. Sentiment analysis allows companies to analyze data at scale, detect insights and automate processes. In a recent develop...</description>
         </item>
         <item>
-            <title>Fine-tune Llama 2 with DPO</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10748</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10748</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Fine-Tune ViT for Image Classification with 🤗 Transformers</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11210</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11210</guid>
+            <description>Just as transformers-based models have revolutionized NLP, we're now seeing an explosion of papers applying them to all sorts of other domains. One of the most revolutionary of these was the Vision Transformer (ViT), which was introduced in June 2021 by a team of researchers at G...</description>
         </item>
         <item>
-            <title>Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10747</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10747</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>BERT 101 - State Of The Art NLP Model Explained</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11209</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11209</guid>
+            <description>BERT, short for Bidirectional Encoder Representations from Transformers, is a Machine Learning (ML) model for natural language processing. It was developed in 2018 by researchers at Google AI Language and serves as a swiss army knife solution to 11+ of the most common language ta...</description>
         </item>
         <item>
-            <title>Optimizing Bark using 🤗 Transformers</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10746</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10746</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Guiding Text Generation with Constrained Beam Search in 🤗 Transformers</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11208</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11208</guid>
+            <description>This blog post assumes that the reader is familiar with text generation methods using the different variants of beam search, as explained in the blog post: "How to generate text: using different decoding methods for language generation with Transformers". In a recent development,...</description>
         </item>
         <item>
-            <title>Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10745</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10745</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Industry News: Image search with 🤗 datasets</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11207</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11207</guid>
+            <description>According to recent reports, 🤗 datasets is a library that makes it easy to access and share datasets. It also makes it easy to process data efficiently -- including working with data which doesn't fit into memory. Industry observers note that when datasets was first launched, it ...</description>
         </item>
         <item>
-            <title>Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10744</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10744</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11206</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11206</guid>
+            <description>notebook: sagemaker/18_inferentia_inference. The adoption of BERT and Transformers continues to grow. Transformer-based models are now not only achieving state-of-the-art performance in Natural Language Processing but also for Computer Vision, Speech, and Time-Series. 💬 🖼 🎤 ⏳. So...</description>
         </item>
         <item>
-            <title>Introducing SafeCoder</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10743</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10743</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Fine-Tune a Semantic Segmentation Model with a Custom Dataset</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11205</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11205</guid>
+            <description>Sources indicate that this guide shows how you can fine-tune Segformer, a state-of-the-art semantic segmentation model. Our goal is to build a model for a pizza delivery robot, so it can see where to drive and recognize obstacles 🍕🤖. We'll first use an available segmentation data...</description>
         </item>
         <item>
-            <title>Making LLMs lighter with AutoGPTQ and transformers</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10742</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10742</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>Deprecation of Git Authentication using password</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10741</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10741</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>Code Llama: Llama 2 learns to code</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10740</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10740</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>AudioLDM 2, but faster ⚡️</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10739</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10739</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker &amp; Hugging Face</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10738</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10738</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>Spread Your Wings: Falcon 180B is here</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10737</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10737</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>Tech Report: Efficient Controllable Generation for SDXL with T2I-Adapters</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10736</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10736</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>SafeCoder vs. Closed-source Code Assistants</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10735</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10735</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>Overview of natively supported quantization schemes in 🤗 Transformers</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10734</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10734</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>Fine-tuning Llama 2 70B using PyTorch FSDP</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10733</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10733</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>Breaking: Introducing Würstchen: Fast Diffusion for Image Generation</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10732</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10732</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>Optimizing your LLM in production</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10731</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10731</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
-        </item>
-        <item>
-            <title>Object Detection Leaderboard</title>
-            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-10730</link>
-            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-10730</guid>
-            <description>Informasi lengkap dapat diakses langsung melalui tautan sumber asli di bawah. → Read original article...</description>
+            <title>Announcing the 🤗 AI Research Residency Program</title>
+            <link>https://railfansday.github.io/semuaartikel50/index.html#artikel-11204</link>
+            <guid>https://railfansday.github.io/semuaartikel50/index.html#artikel-11204</guid>
+            <description>According to recent reports, the 🤗 Research Residency Program is a 9-month opportunity to launch or advance your career in machine learning research 🚀. The goal of the residency is to help you grow into an impactful AI researcher. Residents will work alongside Researchers from ou...</description>
         </item>
 </channel>
 </rss>
